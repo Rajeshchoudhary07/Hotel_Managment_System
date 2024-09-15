@@ -1,8 +1,10 @@
 # Hotel_Managment_System_With_MySQL
 ## INTRODUCTION OF  HOTEL  MANAGEMENT SYSTEM
-Hotel management system is a software system where the management of entire is computerized. The hotel management system is designed using python.Net as the rich GUI for front end and SQL server as the secured backend database.
-In this project the detail are maintain like customer detail ,reservation detail, booking detail and billing detail. The reservation process of reserving rooms for the customer ,cancelling the reserved room ,booking the room , vacating the rooms, the restaurant management ,billing process, etc all are computerized and the management is done without any difficulty.
-The reports can be viewed completely and the head of the management daily or weekly or monthly can review it. For company auditing it will be more useful. This proposed system will be interactive ,faster and user –friendly for the end users . using the hotel management system , the following activities can be performed.
+The Hotel Management System is a software application developed to automate and streamline hotel operations, focusing on the efficient management of rooms, customers, and bookings. The system enables hotel staff to perform essential tasks such as adding new rooms, managing customer information, and handling room bookings. This system is designed for small to medium-sized hotels that require a simple, intuitive interface to manage daily operations without the need for extensive manual effort.
+
+Built using Python and MySQL, the system utilizes a command-line interface (CLI) to interact with users and a MySQL database to store and manage hotel data. Key functionalities include room management (adding, modifying, and searching for room details), customer management (adding and updating customer information), and booking management (booking rooms and tracking occupancy).
+
+By automating these processes, the Hotel Management System reduces the likelihood of errors, improves data accuracy, and enhances the overall operational efficiency of the hotel. The system's search capabilities allow quick access to room status, customer information, and booking history, ensuring smooth operation and improved customer service. This proposed system will be interactive ,faster and user –friendly for the end users . using the hotel management system , the following activities can be performed.
 
 1.Add New Room
 
